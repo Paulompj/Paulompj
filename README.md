@@ -1,5 +1,5 @@
 ### Olá! eu sou o Paulo 🤠
-![Paulo GitHub stats](https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=onedark) <br><br>
+![Paulo GitHub stats](https://github-readme-stats.vercel.app/api?username=Paulompj&show_icons=true&theme=onedark) <br><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 ### Tecnologias que eu utilizo
 
