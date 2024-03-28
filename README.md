@@ -36,7 +36,7 @@
 - [Calculator in C - Using parallel programming concepts](https://github.com/VariableBee/EDA_Loggi)
 ## Artigos
 - [Research_CAD_Applied_to_AGRO_4.0_BSI.Pdf]()
-- [An In-Depth Study on the Use of the strings.h Library in C Programming.Doc]()
+- [An In-Depth Study on the Use of the strings.h Library in C Programming.Doc](https://github.com/Paulompj/Artigos/raw/main/An%20In-Depth%20Study%20on%20the%20Use%20of%20the%20strings.h%20Library%20in%20C%20Programming.docx)
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
 <div style="flex-basis: 48%;">
