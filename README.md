@@ -3,6 +3,7 @@
   <ul align="center">
     <summary><h1 style="display: inline-block">Hello World</h1></summary>
 </div>
+![snake gif](https://github.com/Paulompj/Paulompj/blob/output/github-contribution-grid-snake.gif)
 
 <!-- Presentation -->
 <p>
