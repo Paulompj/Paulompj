@@ -26,16 +26,16 @@
 <!-- Links -->
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__paulom___/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/paulo-moraes-879213294)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/variablebee)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/Paulompj/)
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/paulompj010)
 
 <!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=Paulompj&show_icons=true&theme=gotham)
+!Paulompj GitHub stats](https://github-readme-stats.vercel.app/api?username=Paulompj&show_icons=true&theme=gotham)
 
 <!-- Portfolio -->
 ## Portfolio:
 - [Calculator in C - Using parallel programming concepts](https://github.com/VariableBee/EDA_Loggi)
 ## Artigos
-- [Research_CAD_Applied_to_AGRO_4.0_BSI.Pdf]()
 - [An In-Depth Study on the Use of the strings.h Library in C Programming.Doc](https://github.com/Paulompj/Artigos/raw/main/An%20In-Depth%20Study%20on%20the%20Use%20of%20the%20strings.h%20Library%20in%20C%20Programming.docx)
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
