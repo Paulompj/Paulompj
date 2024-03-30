@@ -34,7 +34,7 @@
 
 <!-- Portfolio -->
 ## Portfolio:
-- [Calculator in C - Using parallel programming concepts](https://github.com/VariableBee/EDA_Loggi)
+- [Calculator in C - Using parallel programming concepts](https://github.com/Paulompj/Portfolio/commit/39c07b6dacddd23b20b4bb36fef174e80cb967da)
 ## Artigos
 - [An In-Depth Study on the Use of the strings.h Library in C Programming.Doc](https://github.com/Paulompj/Artigos/raw/main/An%20In-Depth%20Study%20on%20the%20Use%20of%20the%20strings.h%20Library%20in%20C%20Programming.docx)
 ## 🔥 Skills
