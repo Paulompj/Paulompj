@@ -30,7 +30,7 @@
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/paulompj010)
 
 <!-- GithubStats -->
-![Paulompj GitHub stats](https://github-readme-stats.vercel.app/api?username=Paulompj&show_icons=true&theme=gotham)
+![Paulompj GitHub stats](https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=gotham)
 
 <!-- Portfolio -->
 ## Portfolio:
