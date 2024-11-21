@@ -30,18 +30,6 @@ Aplicativos móveis para monitoramento ambiental, focados no combate ao desmatam
 Ferramentas para gestão e validação de dados acadêmicos.
 🌐 Contatos e Portfólios:
 
-GitHub: github.com/Paulompj
-LinkedIn: Paulo Moraes Pessoa Jardim
-Vamos construir algo incrível juntos! 🚀
-
-
-</p>
-<!-- Links -->
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__paulom___/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-moraes-pessoa-jardim/)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/Paulompj/)
-[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/paulompj010)
-
 <!-- GithubStats -->
 ![Estatísticas do GitHub do Paulompj](https://github-readme-stats.vercel.app/api?username=Paulompj&show_icons=true&theme=gotham)
 
