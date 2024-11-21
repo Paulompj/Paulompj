@@ -7,19 +7,35 @@
 
 <!-- Apresentação -->
 <p>
-  Olá 👋, meu nome é Paulo Moraes. Sou um desenvolvedor Java Spring Boot apaixonado por Tecnologia e Programação do Brasil.<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/275px-Flag_of_Brazil.svg.png" width="20" alt="Imagem do Brasil">.
+  Olá 👋, meu nome é Paulo Moraes
+Sou um desenvolvedor Java Spring Boot apaixonado por tecnologia e programação, diretamente do Brasil. 🌍 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/275px-Flag_of_Brazil.svg.png" width="20" alt="Bandeira do Brasil">
 
-  - 🌱 Atualmente estou cursando Sistemas de Informação na Universidade Federal do Amapá.
-       - Universidade Federal Da Amazônia (2º período) <img src="https://www.ufpb.br/educacaofinanceira/contents/imagens/brasoes-universidades/ufra.png/@@images/image.png" width="25" alt="Imagem da UFRA">.
+🎓 Formação Acadêmica:
+Atualmente sou estudante de Sistemas de Informação na Universidade Federal Rural da Amazônia (UFRA), onde estou no 3º semestre.
+<img src="https://www.ufpb.br/educacaofinanceira/contents/imagens/brasoes-universidades/ufra.png/@@images/image.png" width="25" alt="Imagem da UFRA">
 
-  - 🔭 Estou em busca da minha primeira oportunidade como desenvolvedor Java Spring Boot, seja um emprego ou estágio, onde eu possa aplicar minhas habilidades em desenvolvimento e contribuir para projetos inovadores. Meu objetivo é crescer profissionalmente e colaborar em soluções de software de alta qualidade.
+💼 Experiência:
+Atualmente atuo como Estagiário na Área de Desenvolvimento Full-Stack na Pró-Reitoria de Pesquisa e Desenvolvimento Tecnológico (PROPED) da UFRA, desenvolvendo soluções inovadoras e colaborando com projetos acadêmicos.
+
+🌱 Habilidades e Interesses:
+Sou apaixonado por programação e especialista em Java e Spring Boot para desenvolvimento back-end. Estou sempre buscando expandir meus conhecimentos, explorando tecnologias como Python, Flutter e desenvolvimento mobile.
+
+🔭 Objetivo Profissional:
+Quero me tornar um especialista em desenvolvimento back-end, contribuindo para projetos de software de alta qualidade e inovadores. Atualmente, estou em busca de novas oportunidades como desenvolvedor Java Spring Boot.
+
+📊 Projetos Relevantes:
+
+Desenvolvimento de sistemas BI para análise de dados educacionais.
+Aplicativos móveis para monitoramento ambiental, focados no combate ao desmatamento na Amazônia.
+Ferramentas para gestão e validação de dados acadêmicos.
+🌐 Contatos e Portfólios:
+
+GitHub: github.com/Paulompj
+LinkedIn: Paulo Moraes Pessoa Jardim
+Vamos construir algo incrível juntos! 🚀
+
+
 </p>
-
-<!-- Dropdown -->
-<p>
-  - 💬 Tenho 19 anos e atualmente moro no Brasil. Tenho um bom entendimento de inglês e experiência com C, Python,Java, bancos de dados, HTML, CSS e JavaScript. Sou apaixonado por trabalhar em equipe, o que me proporciona boas habilidades em criatividade, comunicação e análise.
-</p>
-
 <!-- Links -->
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__paulom___/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-moraes-pessoa-jardim/)
